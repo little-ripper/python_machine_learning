@@ -212,4 +212,4 @@ __marimo__/
 TAGS
 
 # Files data
-.data
+/data/*
